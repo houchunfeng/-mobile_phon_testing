@@ -1,2 +1,2 @@
-# -mobile_phon_testing
+# mobile_phon_testing
 手机自动化测试
